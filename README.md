@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/MH-WebDev/social-media-dashboard-with-theme-switcher-master](https://github.com/MH-WebDev/social-media-dashboard-with-theme-switcher-master)
+- Live Site URL: [https://mh-webdev.github.io/social-media-dashboard-with-theme-switcher-master](https://mh-webdev.github.io/social-media-dashboard-with-theme-switcher-master)
 
 ## My process
 
